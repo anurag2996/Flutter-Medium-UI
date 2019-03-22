@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Getting Started
 
